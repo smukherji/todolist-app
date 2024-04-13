@@ -1,0 +1,27 @@
+.splash {
+    cursor: pointer;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    height: 95%;
+    width: 95%;
+    transform: translate(-50%, -50%);
+    background-color: linear-gradient(90deg, #69b7eb, #b3dbd3, #f4d6db);
+    transition: all ease-in-out 600ms;
+
+}
+
+.hidden {
+    transition: 0.5s;
+    display: none;
+}
+
+.splash-header {
+    height: 90%;
+    color: white;
+    font-family: consolas;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
