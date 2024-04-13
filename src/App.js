@@ -5,7 +5,7 @@ import { BrowserRouter, Link, Route, Routes } from 'react-router-dom';
 import TodoList from "./routes/TodoList.js";
 import withSplashScreen from "./common/withSplashScreen.jsx";
 //import * as uuid from 'uuid'
-import { v4 as uuidv4 } from 'uuid';
+//import { v4 as uuidv4 } from 'uuid';
 //import "./styles.css";
 import "./common/splash.css"
 

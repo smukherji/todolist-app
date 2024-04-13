@@ -1,6 +1,6 @@
-import React, { useState, useReducer } from "react";
-import ReactDOM from "react-dom";
-import * as uuid from 'uuid'
+import React, { useReducer } from "react";
+//import ReactDOM from "react-dom";
+//import * as uuid from 'uuid'
 import "./NewTodoForm.css";
 import { v4 as uuidv4 } from 'uuid';
 function NewTodoForm({ task, createTodo }) {

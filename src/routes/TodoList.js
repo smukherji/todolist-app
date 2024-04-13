@@ -1,5 +1,5 @@
-import React, { Component, useState } from "react";
-import ReactDOM from "react-dom";
+import React, { useState } from "react";
+//import ReactDOM from "react-dom";
 import Todo from "./Todo";
 import NewTodoForm from "./NewTodoForm";
 //import * as uuid from 'uuid'

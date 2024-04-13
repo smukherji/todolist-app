@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import ReactDOM from "react-dom";
+//import ReactDOM from "react-dom";
 import "./Todo.css";
 
 export default function Todo({ todo, remove, update, toggleComplete }) {
